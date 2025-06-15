@@ -23,8 +23,10 @@ Welcome to my portfolio — a showcase of projects where I explore real-world da
 **Data & ETL Tools:** Power Query, Zapier, Excel VBA  
 **Databases:** MySQL, PostgreSQL  
 **Visualization:** Power BI, Tableau, Matplotlib  
-**Libraries:** pandas, NumPy, statsmodels, scikit-learn  
-**Other:** Excel, Google Sheets, Canva
+**Libraries:** pandas, NumPy, statsmodels, scikit-learn 
+**Sustainability:** Carbon footprint analysis (Scope 1 & 2), LCA/SLCA, ESG reporting (GRI/SASB)
+
+**Other:** Excel, Google Sheets, Canva, Powerpoint
 
 ---
 
